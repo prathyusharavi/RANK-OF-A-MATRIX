@@ -24,7 +24,8 @@ sol=np.linalg.matrix_rank(a)
 print(sol)
 ```
 ## Output:
-![image](https://github.com/prathyusharavi/RANK-OF-A-MATRIX/assets/147474424/eb411ec4-b081-47d6-aed8-791531903b3c)
+![image](https://github.com/prathyusharavi/RANK-OF-A-MATRIX/assets/147474424/b39d8aa7-90b4-43bd-8865-58aa86c7c2d0)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
